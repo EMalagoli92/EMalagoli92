@@ -7,6 +7,8 @@
 </div>
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=EMalagoli92&show_icons=true&theme=gruvbox)
+<div align="center">
 
+   <a href= "">![Stats](https://github-readme-stats.vercel.app/api?username=EMalagoli92&show_icons=true&theme=gruvbox)
 
+</div>
