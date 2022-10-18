@@ -23,6 +23,3 @@
 
 ### Github Activity
 [![EMalagoli92's github activity graph](https://activity-graph.herokuapp.com/graph?username=EMalagoli92&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  ## Hey 👋, 
-[![Linkedin Badge](https://img.shields.io/badge/-asdas-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asdas/)](https://www.linkedin.com/in/asdas/) 
