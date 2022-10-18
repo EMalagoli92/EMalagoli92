@@ -21,7 +21,7 @@ I love to implement new deep learning architectures, both in TensorFlow 2.X/Kera
 
 \
 \
-![Stats](https://github-readme-stats.vercel.app/api?username=EMalagoli92&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&hide_border=true&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMalagoli92&layout=compact&bg_color=00000000&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=EMalagoli92&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&hide_border=true&hide_rank=true&custom_title=Stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMalagoli92&layout=compact&bg_color=00000000&hide_border=true)
 
 ### Github Activity
 [![EMalagoli92's github activity graph](https://activity-graph.herokuapp.com/graph?username=EMalagoli92&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
