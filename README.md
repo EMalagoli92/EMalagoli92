@@ -17,7 +17,7 @@ I love to implement new deep learning architectures, both in TensorFlow 2.X/Kera
 - [**CvT-Tensorflow**](https://github.com/EMalagoli92/CvT-TensorFlow): TensorFlow 2.X reimplementation of [CvT: Introducing Convolutions to Vision Transformers](https://arxiv.org/abs/2103.15808), Haiping Wu, Bin Xiao, Noel Codella, Mengchen Liu, Xiyang Dai, Lu Yuan, Lei Zhang. 
 
 **Adaptive Computation**
-- [**PonderNet-TensorFlow**](https://github.com/EMalagoli92/PonderNet-TensorFlow): TensorFlow 2.X reimplementaion of [PonderNet: Learning to Ponder](https://arxiv.org/abs/2107.05407)
+- [**PonderNet-TensorFlow**](https://github.com/EMalagoli92/PonderNet-TensorFlow): TensorFlow 2.X reimplementaion of [PonderNet: Learning to Ponder](https://arxiv.org/abs/2107.05407), Andrea Banino, Jan Balaguer, Charles Blundell.
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=EMalagoli92&show_icons=true&include_all_commits=true)](https://github.com/EMalagoli92/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EMalagoli92&layout=compact)](https://github.com/EMalagoli92/github-readme-stats)
