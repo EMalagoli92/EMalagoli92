@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emala.892@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-malagoli-93bbb91a8/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=lightgrey)](https://www.github.com/EMalagoli92/)
 ## Hello There 👋 
-I'm E. Malagoli. I'm a **Mathematician** and **Data Scientist** with passion for **Deep Learning**, especially applied to **Computer Vision**.\
+I'm EMalagoli92. I'm a **Mathematician** and **Data Scientist** with passion for **Deep Learning**, especially applied to **Computer Vision**.\
 I love to implement new deep learning architectures, both in TensorFlow 2.X/Keras and PyTorch.
 
 ## My Repos and Stats
