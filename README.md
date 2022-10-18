@@ -1,6 +1,6 @@
 ## Hello There 👋 
-[![Gmail Badge](https://img.shields.io/badge/-emala.892@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emala.892@gmail.com)](mailto:emala.892@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Emanuele%20Malagoli-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuele-malagoli-93bbb91a8/?locale=en_US)](https://www.linkedin.com/in/emanuele-malagoli-93bbb91a8/) [![Github Badge](https://img.shields.io/badge/-EMalagoli92-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EMalagoli92/)](https://www.github.com/EMalagoli92/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emala.892@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuele-malagoli-93bbb91a8/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/EMalagoli92/)
 
 I'm EMalagoli92. I'm a **Mathematician** and **Data Scietist** with passion for **Deep Learning**, especially applied to **Computer Vision**.\
 I love to implement new deep learning architectures, both in TensorFlow 2.X/Keras and PyTorch.
