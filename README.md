@@ -13,7 +13,7 @@ I love to implement new deep learning architectures, both in TensorFlow 2.X/Kera
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 **Computer Vision**
-- [**GCViT-Tensorflow**](https://github.com/EMalagoli92/GCViT-TensorFlow): TensorFlow 2.X reimplementation of [Global Context Vision Transformers](https://arxiv.org/pdf/2206.09959.pdf) Transformers, Ali Hatamizadeh, Hongxu (Danny) Yin, Jan Kautz Pavlo Molchanov. 
+- [**GCViT-Tensorflow**](https://github.com/EMalagoli92/GCViT-TensorFlow): TensorFlow 2.X reimplementation of [Global Context Vision Transformers](https://arxiv.org/abs/2206.09959) Transformers, Ali Hatamizadeh, Hongxu (Danny) Yin, Jan Kautz Pavlo Molchanov. 
 - [**CvT-Tensorflow**](https://github.com/EMalagoli92/CvT-TensorFlow): TensorFlow 2.X reimplementation of [CvT: Introducing Convolutions to Vision Transformers](https://arxiv.org/abs/2103.15808), Haiping Wu, Bin Xiao, Noel Codella, Mengchen Liu, Xiyang Dai, Lu Yuan, Lei Zhang. 
 
 **Adaptive Computation**
