@@ -6,7 +6,7 @@ I'm EMalagoli92. I'm a **Deep Learning Engineer** with passion for **Computer Vi
 I love to implement new deep learning architectures, both in TensorFlow 2.X/Keras and PyTorch.
 
 ## Publications
-- [*Malagoli, Emanuele, Diego Pallara, and Sergio Polidoro. "Mean value formulas for classical solutions to uniformly parabolic equations in divergence form." (2021).*](https://arxiv.org/abs/2109.00934)
+- [*Malagoli, Emanuele, Diego Pallara, and Sergio Polidoro. "Mean value formulas for classical solutions to uniformly parabolic equations in the divergence form with non-smooth coefficients." (2023).*]([https://arxiv.org/abs/2109.00934](https://onlinelibrary.wiley.com/doi/abs/10.1002/mana.202100612))
 
 ## My Repos
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
