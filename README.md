@@ -19,6 +19,7 @@ I love to implement new deep learning architectures, both in TensorFlow 2.X/Kera
 - [**GCViT-TensorFlow**](https://github.com/EMalagoli92/GCViT-TensorFlow): TensorFlow 2.X reimplementation of [Global Context Vision Transformers](https://arxiv.org/abs/2206.09959) Transformers, Ali Hatamizadeh, Hongxu (Danny) Yin, Jan Kautz Pavlo Molchanov. 
 - [**CvT-TensorFlow**](https://github.com/EMalagoli92/CvT-TensorFlow): TensorFlow 2.X reimplementation of [CvT: Introducing Convolutions to Vision Transformers](https://arxiv.org/abs/2103.15808), Haiping Wu, Bin Xiao, Noel Codella, Mengchen Liu, Xiyang Dai, Lu Yuan, Lei Zhang.
 - [**VAN-Classification-TensorFlow**](https://github.com/EMalagoli92/VAN-Classification-TensorFlow): TensorFlow 2.X reimplementation of [Visual Attention Network](https://arxiv.org/abs/2202.09741v5), Meng-Hao Guo, Cheng-Ze Lu, Zheng-Ning Liu, Ming-Ming Cheng, Shi-Min Hu.
+- [**OD-Metrics**](https://github.com/EMalagoli92/OD-Metrics): Metrics package for Object Detection.
 
 **Adaptive Computation**
 - [**PonderNet-TensorFlow**](https://github.com/EMalagoli92/PonderNet-TensorFlow): TensorFlow 2.X reimplementaion of [PonderNet: Learning to Ponder](https://arxiv.org/abs/2107.05407), Andrea Banino, Jan Balaguer, Charles Blundell.
