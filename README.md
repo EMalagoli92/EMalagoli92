@@ -22,6 +22,4 @@ I love to implement new deep learning architectures, both in TensorFlow 2.X/Kera
 - [**PonderNet-TensorFlow**](https://github.com/EMalagoli92/PonderNet-TensorFlow): TensorFlow 2.X reimplementaion of [PonderNet: Learning to Ponder](https://arxiv.org/abs/2107.05407), Andrea Banino, Jan Balaguer, Charles Blundell.
 
 ## Stats and Activity
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EMalagoli92&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&hide_border=true&hide_rank=true&custom_title=Stats&disable_animations=false) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EMalagoli92&layout=compact&bg_color=00000000&hide_border=true&title_color=FA8C00)
-
-[![EMalagoli92's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EMalagoli92&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EMalagoli92&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&hide_border=true&hide_rank=true&custom_title=Stats&disable_animations=false)
