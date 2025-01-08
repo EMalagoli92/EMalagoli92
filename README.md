@@ -20,7 +20,3 @@ I love to implement new deep learning architectures, both in TensorFlow 2.X/Kera
 
 **Adaptive Computation**
 - [**PonderNet-TensorFlow**](https://github.com/EMalagoli92/PonderNet-TensorFlow): TensorFlow 2.X reimplementaion of [PonderNet: Learning to Ponder](https://arxiv.org/abs/2107.05407), Andrea Banino, Jan Balaguer, Charles Blundell.
-
-## Stats and Activity
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EMalagoli92&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&hide_border=true&hide_rank=true&custom_title=Stats&disable_animations=false)
-
