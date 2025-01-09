@@ -5,8 +5,7 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
 ## Hello There 👋 
-I'm EMalagoli92. I'm a **Deep Learning Engineer** with passion for **Computer Vision**.\
-I love to implement new deep learning architectures, both in TensorFlow 2.X/Keras and PyTorch.
+I'm **EMalagoli92**, a Data Scientist, Deep Learning Engineer, and Mathematician with a deep passion for **Computer Vision**. 
 
 ## 📚 Publications
 - *Malagoli, E., Pallara, D., & Polidoro, S.* (2023). **Mean value formulas for classical solutions to uniformly parabolic equations in the divergence form with non‐smooth coefficients.** Mathematische Nachrichten, 296(9), 4236-4263.\
